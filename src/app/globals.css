@@ -16,6 +16,21 @@
   }
 }
 
+#ideaDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 50vh; /* Set the height of the container */
+}
+
+#topLevelIdeaDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
