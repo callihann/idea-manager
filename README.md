@@ -1,5 +1,7 @@
 # Idea Manager
 
+![Static Badge](https://img.shields.io/badge/any_ideas-you_like-green) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 Built with Next.js and PostgreSQL to track ideas in an efficient and simplistic manner.
 
 ## Getting Started
