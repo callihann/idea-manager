@@ -20,7 +20,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-This is my first project in my project a week series.
+This is my first project in my project a week series. The purpose of this project is a tool to track ideas.
+![](https://ibb.co/JK5wfd2)
 
 ## Contributing
 
